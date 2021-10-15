@@ -1,2 +1,3 @@
 # test_repo
-https://sandbox.zenodo.org/badge/latestdoi/410326281
+
+[![DOI](https://sandbox.zenodo.org/badge/410326281.svg)](https://sandbox.zenodo.org/badge/latestdoi/410326281)
